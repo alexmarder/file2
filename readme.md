@@ -6,7 +6,7 @@ Similar to the `open` function, this provides a single function call for opening
 To install in python3:
 `pip install file2`
 
-# Usage
+## Usage
 ```python
 from file2 import fopen
 with fopen(filename, mode='rt', *args, **kwargs)
